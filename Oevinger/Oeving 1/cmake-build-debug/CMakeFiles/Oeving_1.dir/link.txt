@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Oeving_1.dir/mem.c.o  -o Oeving_1 

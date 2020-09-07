@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ingebrigt/Documents/uni - 2/Operativsystemer/Oevinger/Oeving 1/mem.c
+stdio.h
+-
+stdlib.h
+-
+
